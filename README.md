@@ -125,5 +125,13 @@
                   <a href="https://robu.in/product/skyrc-e3-ac-2s-3s-li-po-battery-charger-v2-original/">SKYRC E3 AC 2S~3S Li-Po Battery Balance Charger (V2)</a>
           </td>
         </tr>
+        <tr>
+          <td>Wheels</td>
+          <td>4</td>
+          <td> ₹649.00 </td>
+          <td>
+                ✔ <a href="https://www.indianhobbycenter.com/products/130mm-robot-wheel-for-atv-and-diy-robotics?variant=40156302508075&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoruWjlAwG-_GIjlx1oAX9crP2isfeJT7zfGVxp1HyVpG3m3u0De2GQ">130mm Robotics Wheel</a>
+          </td>
+        </tr>
     </tbody>
 </table>
