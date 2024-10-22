@@ -13,7 +13,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>Arduino Nano</td>
+            <td>ESP32 WROOM</td>
             <td>1</td>
             <td> ₹327.00 </td>
             <td>
@@ -22,7 +22,7 @@
             <td> robu </td>
         </tr>
          <tr>
-            <td>Micro USB cable</td>
+            <td>Micro Usb Cable</td>
             <td>1</td>
             <td> ₹25.00 </td>
             <td>
@@ -35,13 +35,13 @@
           <td>2</td>
           <td> ₹48.00 <br> ₹48.00 </td>
           <td>
-                ✔ <a href="https://robu.in/product/breadboard-840-tie-points-solderless-diy-project-circuit-test-breadboard/">Breadboard (link 1)</a><br>
-                  <a href="https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality/">Breadboard (link 2)</a><br>
+                ✔ <a href="https://quartzcomponents.com/products/colored-breadboard-mb-102-830-point?_pos=4&_sid=43a241826&_ss=r">Breadboard full size</a><br>
+                  <a href="https://quartzcomponents.com/products/small-breadboard-mini-solderless-board?_pos=1&_sid=43a241826&_ss=r">Breadboard mini</a><br>
           </td>
-          <td> robu </td>
+          <td> quartzcomponents </td>
         </tr>
         <tr>
-            <td>LED</td>
+            <td>Led's</td>
             <td>2</td>
             <td>₹03.00 <br> ₹03.00 <br> ₹03.00 <br> ₹03.00 <br> ₹03.00</td>
             <td>
@@ -54,7 +54,7 @@
             <td> quartzcomponents </td>
         </tr>
         <tr>
-            <td>Resistor kit</td>
+            <td>Resistor Kit</td>
             <td>1</td>
             <td>₹79</td>
             <td>
@@ -64,7 +64,7 @@
             <td> quartzcomponents </td>
         </tr>
         <tr>
-          <td>Jumper wires</td>
+          <td>Jumper Wires</td>
           <td>1</td>
           <td> ₹15.00 </td>
           <td>
