@@ -33,7 +33,7 @@
         <tr>
           <td>Breadboard</td>
           <td>2</td>
-          <td> ₹48.00 <br> ₹48.00 </td>
+          <td> ₹58.00 <br> ₹41.00 </td>
           <td>
                 ✔ <a href="https://quartzcomponents.com/products/colored-breadboard-mb-102-830-point?_pos=4&_sid=43a241826&_ss=r">Breadboard full size</a><br>
                   <a href="https://quartzcomponents.com/products/small-breadboard-mini-solderless-board?_pos=1&_sid=43a241826&_ss=r">Breadboard mini</a><br>
@@ -103,7 +103,7 @@
         <tr>
           <td><b>Total<b></td>
           <td></td>
-          <td><b> ₹643.00 <b></td>
+          <td><b> ₹653.00 <b></td>
           <td></td>
           <td></td>
         </tr>
