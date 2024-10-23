@@ -1,5 +1,4 @@
-# Electronics 
-## Components for getting started
+# Basic Components
 
 <table>
     <thead>
