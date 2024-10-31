@@ -109,7 +109,7 @@
     </tbody>
 </table>
 
-# Main Components
+# Main Components (complete list)
 
 ## Electronic components
 
