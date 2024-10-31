@@ -102,7 +102,7 @@
         <tr>
           <td><b>Total<b></td>
           <td></td>
-          <td><b> ₹653.00 <b></td>
+          <td><b> ₹618.00 <b></td>
           <td></td>
           <td></td>
         </tr>
