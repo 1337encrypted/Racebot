@@ -185,7 +185,7 @@
           <td>1</td>
           <td> ₹06.00 <br> 05.00 </td>
           <td>
-                ✔ <a href="https://robu.in/product/heat-shrink-sleeve-2mm-red-industrial-grade-woer-hst/">Heat Shrink Sleeve 2mm Red</a>
+                ✔ <a href="https://robu.in/product/heat-shrink-sleeve-2mm-red-industrial-grade-woer-hst/">Heat Shrink Sleeve 2mm Red</a> <br>
                 ✔ <a href="https://robu.in/product/heat-shrink-sleeve-2mm-black-industrial-grade-woer-hst/">Heat Shrink Sleeve 2mm Black</a>
           </td>
           <td> robu </td>
