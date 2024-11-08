@@ -5,6 +5,7 @@
 <table>
     <thead>
         <tr>
+            <th>Sn no</th>
             <th>Name</th>
             <th>Quantity</th>
             <th>Price</th>
@@ -14,6 +15,7 @@
     </thead>
     <tbody>
         <tr>
+            <td>1</td>
             <td>ESP32 WROOM</td>
             <td>1</td>
             <td> ₹327 </td>
@@ -22,7 +24,8 @@
             </td>
             <td> robu </td>
         </tr>
-         <tr>
+        <tr>
+            <td>2</td>
             <td>Micro Usb Cable</td>
             <td>1</td>
             <td> ₹25 </td>
@@ -32,6 +35,7 @@
             <td> robu </td>
         </tr>
         <tr>
+          <td>3</td>
           <td>Motor driver</td>
           <td>2</td>
           <td> ₹244 <br> ₹252 </td>
@@ -42,6 +46,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>4</td>
           <td>Buck converter</td>
           <td>1</td>
           <td> ₹39 <br> ₹41 </td>
@@ -52,6 +57,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>5</td>
           <td>Battery</td>
           <td>1</td>
           <td> ₹1,444 <br> ₹1,524 <br> ₹1,665 <br> ₹1,649 <br></td>
@@ -64,6 +70,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>6</td>
           <td>Motors</td>
           <td>4</td>
           <td> ₹355 </td>
@@ -73,6 +80,7 @@
           <td> robokits </td>
         </tr>
         <tr>
+          <td>7</td>
           <td>Buzzer</td>
           <td>1</td>
           <td> ₹8 </td>
@@ -82,6 +90,7 @@
           <td> quartzcomponents </td>
         </tr>
         <tr>
+            <td>8</td>
             <td>Led's</td>
             <td>2</td>
             <td>₹3 <br> ₹3 <br> ₹3 <br> ₹3 <br> ₹3</td>
@@ -95,6 +104,7 @@
             <td> quartzcomponents </td>
         </tr>
         <tr>
+          <td>9</td>
           <td>Transistor</td>
           <td>2</td>
           <td> ₹3 </td>
@@ -104,6 +114,7 @@
           <td> quartzcomponents </td>
         </tr>
         <tr>
+          <td>10</td>
           <td>Dot-matrix board</td>
           <td>4</td>
           <td> ₹265 </td>
@@ -113,6 +124,7 @@
           <td> robu </td>
         </tr>
         <tr>
+            <td>11</td>
             <td>Resistor Kit</td>
             <td>1</td>
             <td>₹79</td>
@@ -123,6 +135,7 @@
             <td> quartzcomponents </td>
         </tr>
         <tr>
+          <td>12</td>
           <td>Self Lock Switch</td>
           <td>2</td>
           <td>₹5 </td>
@@ -132,6 +145,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>13</td>
           <td>24AWG Silicone Wire</td>
           <td>1</td>
           <td> ₹45 <br> ₹9x2 <br> ₹9x2 </td>
@@ -143,6 +157,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>14</td>
           <td>XT-60 connector</td>
           <td>2</td>
           <td> ₹29 </td>
@@ -152,6 +167,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>15</td>
           <td>Wheels</td>
           <td>4</td>
           <td> ₹649 </td>
@@ -161,6 +177,7 @@
           <td> indian hobby center </td>
         </tr>
         <tr>
+          <td>16</td>
           <td>Velcro strap</td>
           <td>3</td>
           <td> ₹75 </td>
@@ -170,6 +187,7 @@
           <td> robu </td>
         </tr>
         <tr>
+          <td>17</td>
           <td>Battery charger</td>
           <td>1</td>
           <td> ₹2,375 <br> ₹2,375 <br> ₹4,318 </td>
@@ -181,6 +199,7 @@
           <td> zbotic <br> robocraze <br> zbotic </td>
         </tr>
         <tr>
+          <td>18</td>
           <td>Heat shrink tubes</td>
           <td>1</td>
           <td> ₹6 <br> ₹5 </td>
@@ -190,6 +209,27 @@
           </td>
           <td> robu </td>
         </tr>
+        <tr>
+          <td>19</td>
+          <td>40 Pin Female headers</td>
+          <td>2</td>
+          <td> ₹9 </td>
+          <td>
+                ✔ <a href="https://quartzcomponents.com/products/40-pin-straight-female-berg-strips?_pos=1&_sid=6471d9bbc&_ss=r">Female header pins</a> <br>
+          </td>
+          <td> quartzcomponents </td>
+        </tr>
+        <tr>
+          <td>20</td>
+          <td>Connectors</td>
+          <td>2</td>
+          <td> ₹10 <br> ₹8 </td>
+          <td>
+                ✔ <a href="https://quartzcomponents.com/products/4pin-polarized-header-wire-relimate-connector?_pos=8&_sid=6471d9bbc&_ss=r">4 pin relimate connector</a> <br>
+                ✔ <a href="https://quartzcomponents.com/products/2pin-polarized-header-wire-relimate-connector?_pos=7&_sid=6471d9bbc&_ss=r">2 pin relimate connector</a> <br>
+          </td>
+          <td> quartzcomponents </td>
+        </tr>
     </tbody>
 </table>
 
@@ -197,6 +237,7 @@
 <table>
     <thead>
         <tr>
+            <th>Sn no</th>
             <th>Name</th>
             <th>Quantity</th>
             <th>Price</th>
@@ -206,6 +247,7 @@
     </thead>
     <tbody>
         <tr>
+          <td>1</td>
           <td>40mm End caps</td>
           <td>4</td>
           <td> ₹20 - ₹05 </td>
@@ -215,6 +257,7 @@
           <td> local vendor </td>
         </tr>
         <tr>
+          <td>2</td>
           <td>40mm PVC tee</td>
           <td>2</td>
           <td> ₹13 - ₹20 </td>
@@ -224,6 +267,7 @@
           <td> local vendor </td>
         </tr>
         <tr>
+          <td>3</td>
           <td>40mm PVC pipe (1 foot)</td>
           <td>1</td>
           <td> ₹20 </td>
@@ -233,6 +277,7 @@
           <td> local vendor </td>
         </tr>
         <tr>
+          <td>4</td>
           <td> m4 8mm or longer bolts</td>
           <td>4</td>
           <td> ₹4 </td>
@@ -242,6 +287,7 @@
           <td> local vendor</td>
         </tr>
         <tr>
+          <td>5</td>
           <td> m4 nuts</td>
           <td>4</td>
           <td> ₹2 </td>
