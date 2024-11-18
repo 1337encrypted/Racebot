@@ -170,11 +170,16 @@
           <td>15</td>
           <td>Wheels</td>
           <td>4</td>
-          <td> ₹649 </td>
+          <td> ₹649 <br> ₹3764 <br> ₹3827 <br> ₹3827 <br> ₹5987 <br> ₹7135 </td>
           <td>
-                ✔ <a href="https://www.indianhobbycenter.com/products/130mm-robot-wheel-for-atv-and-diy-robotics?variant=40156302508075&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoruWjlAwG-_GIjlx1oAX9crP2isfeJT7zfGVxp1HyVpG3m3u0De2GQ">130mm Robotics Wheel</a>
+                ✔ <a href="https://www.indianhobbycenter.com/products/130mm-robot-wheel-for-atv-and-diy-robotics?variant=40156302508075&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoruWjlAwG-_GIjlx1oAX9crP2isfeJT7zfGVxp1HyVpG3m3u0De2GQ">130mm Robotics Wheel</a> <br>
+              <a href="https://amzn.to/4hRAR6N"> 130mm Robotics Wheels</a> <br>
+              <a href="https://amzn.to/3AOcDcY"> 130mm Robotics Wheels</a> <br>
+              <a href="https://amzn.to/4fQDJPB"> 130mm Robotics Wheels </a> <br>
+              <a href="https://amzn.to/4eDxbTs"> 130mm Robotics Wheels </a> <br>
+              <a href="https://amzn.to/4eAF2B2"> 130mm Robotics Wheels </a> <br>
           </td>
-          <td> indian hobby center </td>
+          <td> indian hobby center <br> Amazon <br> Amazon <br> Amazon <br> Amazon <br> Amazon </td>
         </tr>
         <tr>
           <td>16</td>
